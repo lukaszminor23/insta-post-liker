@@ -1,6 +1,6 @@
 # Instagram Post Liking Bot
 
-This is a simple Python script that I wrote during an online Python bootcamp: 100 days of code b y Angela Yu.
+This is a simple Python script that I wrote during an online Python bootcamp: 100 days of code by Angela Yu.
 The script is using the Selenium library to automate post liking of a specified Instagram profile. On the course,
 the script was supposed to follow all the followers of an account and I modified it to like all posts instead.
 
