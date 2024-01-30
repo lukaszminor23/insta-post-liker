@@ -15,7 +15,7 @@ the script was supposed to follow all the followers of an account and I modified
 
 Clone the repository:
 
-    git clone https://github.com/lukaszminor23/instagram-follower-bot.git
+    git clone https://github.com/lukaszminor23/insta-post-liker.git
 
 
 ## Install dependencies:
